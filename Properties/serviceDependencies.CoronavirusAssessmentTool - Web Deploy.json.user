@@ -1,0 +1,25 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "CoronavirusAssessmentTool.resourceGroupLocation": {
+      "Type": null,
+      "Value": "ukwest"
+    },
+    "CoronavirusAssessmentTool.resourceName": {
+      "Type": null,
+      "Value": "CoronavirusAssessmentTool"
+    },
+    "CoronavirusAssessmentTool.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "RiddleWebApplicationResourceGroup"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "b9f8d5a3-83eb-4412-a482-e3b9f50a6320"
+    },
+    "CoronavirusAssessmentTool.subscriptionId": {
+      "Type": "subscription",
+      "Value": "b9f8d5a3-83eb-4412-a482-e3b9f50a6320"
+    }
+  }
+}
